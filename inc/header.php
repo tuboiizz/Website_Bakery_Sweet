@@ -30,7 +30,7 @@ $cmr = new Customer();
 <!DOCTYPE HTML>
 <html lang="en-US">
 <head>
-<title>Bakery_Sweet Online</title>
+<title>Sweet-Bakery Online</title>
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">

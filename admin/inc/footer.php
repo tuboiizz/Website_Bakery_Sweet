@@ -5,7 +5,7 @@
     </div>
     <div id="site_info">
         <p>
-         &copy; Copyright <a href="http://www.nayem.xyz">Bakery-Sweet online </a>. Đã đăng ký bản quyền.
+         &copy; Copyright <a href="http://www.nayem.xyz">Sweet-Bakery Online </a>. Đã đăng ký bản quyền.
         </p>
     </div>
 </body>

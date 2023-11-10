@@ -58,7 +58,7 @@
 			</div>
 			
 			<div class="copy_right">
-				<p>Bakery-Sweet Online &amp; Bảo lưu mọi quyền </p>
+				<p>Sweet-Bakery Online &amp; Bảo lưu mọi quyền </p>
 		   </div>
      </div>
     </div>

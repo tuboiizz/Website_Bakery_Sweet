@@ -44,7 +44,7 @@ if (!isset($search) || $search == NULL) {
 			</div>
 		<?php } } else { ?>
 
-			<p style="color: red; font-size: 35px; font-weight: bold; text-align: center;">Tìm kiếm của bạn không tìm thấy sản phẩm nào !!.</p>
+			<p style="color: red; font-size: 35px; font-weight: bold; text-align: center;">Tìm kiếm của bạn không tìm thấy sản phẩm nào !</p>
 		<?php } ?>
 
 		</div>

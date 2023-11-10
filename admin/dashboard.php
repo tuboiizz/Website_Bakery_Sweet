@@ -4,7 +4,7 @@
             <div class="box round first grid">
                 <h2>Bảng điều khiển</h2>
                 <div class="block">               
-                  Chào mừng ban quản trị        
+                  Chào mừng bạn đã đến với ban quản trị        
                 </div>
             </div>
         </div>

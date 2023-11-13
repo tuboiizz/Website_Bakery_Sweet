@@ -104,7 +104,7 @@ Session::destroy();
         <div class="grid_12">
             <ul class="nav main">
                 <li class="ic-dashboard"><a href="dashboard.php"><span>Bảng điều khiển</span></a> </li>
-                <li class="ic-form-style"><a href="customer.php"><span>Thông tin người dùng</span></a></li>
+                <!-- <li class="ic-form-style"><a href="customer.php"><span>Thông tin người dùng</span></a></li> -->
 				<!-- <li class="ic-typography"><a href="changepassword.php"><span>Đổi mật khẩu</span></a></li> -->
 				<li class="ic-grid-tables"><a href="ordermanagement.php"><span>Quản lý đơn hàng</span></a></li>
                 <li class="ic-grid-tables"><a href="message.php"><span>Tin nhắn

@@ -29,10 +29,10 @@
                         <li><a href="catlist.php">Danh sách chuyên mục</a> </li>
                     </ul>
                 </li>
-                <li><a class="menuitem">Tùy chọn loại bánh</a>
+                <li><a class="menuitem">Tùy chọn loại sản phẩm</a>
                     <ul class="submenu">
-                        <li><a href="brandadd.php">Thêm loại bánh</a> </li>
-                        <li><a href="brandlist.php">Danh sách loại bánh</a> </li>
+                        <li><a href="brandadd.php">Thêm loại sản phẩm</a> </li>
+                        <li><a href="brandlist.php">Danh sách loại sản phẩm</a> </li>
                     </ul>
                 </li>
                 <li><a class="menuitem">Tùy chọn sản phẩm</a>

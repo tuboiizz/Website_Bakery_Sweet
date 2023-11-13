@@ -15,7 +15,7 @@ if (isset($_GET['delbrand'])) {
 
         <div class="grid_10">
             <div class="box round first grid">
-                <h2>Danh sách loại bánh</h2>
+                <h2>Danh sách loại sản phẩm</h2>
                 <div class="block">   
 
                 	<?php 
@@ -32,7 +32,7 @@ if (isset($_GET['delbrand'])) {
 					<thead>
 						<tr>
 							<th>Số sê-ri</th>
-							<th>Tên loại bánh</th>
+							<th>Tên loại sản phẩm</th>
 							<th>Hành động</th>
 						</tr>
 					</thead>

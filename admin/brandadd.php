@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 ?>
         <div class="grid_10">
             <div class="box round first grid">
-                <h2>Thêm loại bánh mới</h2>
+                <h2>Thêm loại sản phẩm   mới</h2>
                <div class="block copyblock"> 
 
 <?php

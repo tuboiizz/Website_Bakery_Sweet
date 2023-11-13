@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 ?>
         <div class="grid_10">
             <div class="box round first grid">
-                <h2>Cập nhật loại bánh</h2>
+                <h2>Cập nhật loại sản phẩm</h2>
                <div class="block copyblock"> 
 
 <?php

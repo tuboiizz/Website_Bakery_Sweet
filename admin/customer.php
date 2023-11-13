@@ -7,7 +7,7 @@ include_once ($filepath.'/../classess/Customer.php');
 <?php
 if (!isset($_GET['custId']) || $_GET['custId'] == NULL) {
    
-   echo "<script>window.location='inbox.php';</script>";
+   echo "<script>window.location='ordermanagement.php';</script>";
    
 } else {
 
@@ -17,7 +17,7 @@ if (!isset($_GET['custId']) || $_GET['custId'] == NULL) {
 
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-    echo "<script>window.location='inbox.php';</script>";
+    echo "<script>window.location='ordermanagement.php';</script>";
 }
 
 ?>
@@ -76,7 +76,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         </tr>
                         <tr> 
                             <td>
-                                <input type="submit" name="submit" Value="Ok" />
+                                <input type="submit" name="submit" Value="Lưu" />
                             </td>
                         </tr>
                     </table>

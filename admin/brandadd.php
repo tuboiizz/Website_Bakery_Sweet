@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 ?>
         <div class="grid_10">
             <div class="box round first grid">
-                <h2>Thêm thương hiệu mới</h2>
+                <h2>Thêm loại bánh mới</h2>
                <div class="block copyblock"> 
 
 <?php
@@ -26,7 +26,7 @@ echo $insertBrand;
                     <table class="form">					
                         <tr>
                             <td>
-                                <input type="text" name="brandName" placeholder="Nhập tên thương hiệu..." class="medium" />
+                                <input type="text" name="brandName" placeholder="Nhập tên loại bánh..." class="medium" />
                             </td>
                         </tr>
 						<tr> 
